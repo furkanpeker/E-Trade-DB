@@ -1,1 +1,2 @@
-# E-Trade-DB
+# E-Trade-DB <br>
+A learning database management systems project...
